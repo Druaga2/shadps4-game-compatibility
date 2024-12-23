@@ -1,7 +1,7 @@
 name: Game Compatibility
 description: Report a game's compatibility status on shadPS4
 body:
-  - type: input
+  - type: textarea
     id: game-name
     attributes:
       label: Game Name
